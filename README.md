@@ -1,5 +1,8 @@
 Hi 👋 My name is Mario Wukovits
-===============================IT Student----------
+===============================
+IT Student
+----------
+
 I code since 3 years and I try to learn and understand Go.
 * 🌍  I'm based in Upper Austria
 * ✉️  You can contact me at [mario.wukovits@proton.me](mailto:mario.wukovits@proton.me)
