@@ -1,12 +1,12 @@
 IT Student
 ----------
 
-I code since 3 years and I try to learn and understand Go.
+I code since 3 years and I try to learn and understand Zig.
 
 *   🌍  I'm based in Upper Austria
 *   ✉️  You can contact me at [mario.wukovits@proton.me](mailto:mario.wukovits@proton.me)
-*   🧠  I'm learning Go
-*   🤝  I'm open to collaborating on cool projects in Go or any backend project
+*   🧠  I'm learning Zig
+*   🤝  I'm open to collaborating on cool projects in Zig or any backend project
 *   ⚡  I enjoy long walks and reading books
 
 ### Skills / Interest
